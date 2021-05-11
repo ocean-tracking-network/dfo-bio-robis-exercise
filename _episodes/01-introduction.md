@@ -180,8 +180,8 @@ What are some of the measurement or facts that OBIS tracks?
 see a full report and search for terms at https://mof.obis.org/
 
 Notably:
-* 7.2m records of 'fish length!
-* 3.3m records of sampling protocol
+* 7.2m records of 'fish length'
+* 3.3m records of 'sampling protocol'
 
 ~~~
 # Human-readable mof columns for our dataset:
@@ -208,7 +208,7 @@ The ability to use vocabulary services to record definitively how things are mea
 
 
 
-> ##### Assignment - exploring deep-water corals in OBIS -----
+> ##### Assignment - exploring deep-water corals in OBIS
 >
 > On the deep-water coral page on Wikipedia we read this:
 >  
@@ -223,7 +223,7 @@ include black and horny corals (Antipatharia) and soft corals (Alcyonacea) inclu
 > > ~~~
 > > # solution here.
 > > ~~~
-> > {: .language_r}
+> > {: .language-r}
 > {: .solution}
 {: .challenge}
 
