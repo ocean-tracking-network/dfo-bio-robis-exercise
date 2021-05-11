@@ -208,18 +208,25 @@ The ability to use vocabulary services to record definitively how things are mea
 
 
 
-##### Assignment - exploring deep-water corals in OBIS -----
-
-On the deep-water coral page on Wikipedia we read this:
-  
+> ##### Assignment - exploring deep-water corals in OBIS -----
+>
+> On the deep-water coral page on Wikipedia we read this:
+>  
 > The habitat of deep-water corals, also known as cold-water corals, extends to deeper, darker parts of the oceans than tropical corals, ranging from near the surface to the abyss, beyond 2,000 metres where water temperatures may be as cold as 4 °C. Deep-water corals belong to the Phylum Cnidaria and are most often stony corals (Scleractinia), but also 
 include black and horny corals (Antipatharia) and soft corals (Alcyonacea) including the Gorgonians.
+> 
+> **For this assignment:**
+>
+> 1) Use robis to retrieve deep-water coral occurrences below 2000 m from OBIS and 
+> 2) Find how the occurrences are distributed among the different orders
+> > ##### Solution:
+> > ~~~
+> > # solution here.
+> > ~~~
+> > {: .language_r}
+> {: .solution}
+{: .challenge}
 
-
-**For this assignment:**
-
-1) Use robis to retrieve deep-water coral occurrences below 2000 m from OBIS and 
-2) Find how the occurrences are distributed among the different orders
 
 {% include links.md %}
 
