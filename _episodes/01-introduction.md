@@ -208,7 +208,7 @@ The ability to use vocabulary services to record definitively how things are mea
 
 
 
-> ##### Assignment - exploring deep-water corals in OBIS
+> ## Assignment - exploring deep-water corals in OBIS
 >
 > On the deep-water coral page on Wikipedia we read this:
 >  
@@ -219,7 +219,7 @@ include black and horny corals (Antipatharia) and soft corals (Alcyonacea) inclu
 >
 > 1) Use robis to retrieve deep-water coral occurrences below 2000 m from OBIS and 
 > 2) Find how the occurrences are distributed among the different orders
-> > ##### Solution:
+> > ## Solution:
 > > ~~~
 > > # solution here.
 > > ~~~
