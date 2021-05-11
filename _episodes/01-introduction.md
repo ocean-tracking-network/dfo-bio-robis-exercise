@@ -195,7 +195,7 @@ mof$measurementTypeID %>% unique()
 ~~~
 {: .language-r}
 
-MeasurementTypeIDs are URIs, which is handy, because we can visit e.g. http://vocab.nerc.ac.uk/collection/P01/current/OBSINDLX/ directly to see a definition of the measurement.
+MeasurementTypeIDs are URIs, which is handy, because we can visit e.g. [http://vocab.nerc.ac.uk/collection/P01/current/OBSINDLX/](http://vocab.nerc.ac.uk/collection/P01/current/OBSINDLX/) directly to see a definition of the measurement.
 
 ##### MOF - Observed Length: 
 ~~~
@@ -220,7 +220,6 @@ include black and horny corals (Antipatharia) and soft corals (Alcyonacea) inclu
 
 1) Use robis to retrieve deep-water coral occurrences below 2000 m from OBIS and 
 2) Find how the occurrences are distributed among the different orders
-
 
 {% include links.md %}
 
