@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Using Robis to Get Species Occurrence Data From OBIS"
 teaching: 0
 exercises: 0
 questions:
