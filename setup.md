@@ -2,12 +2,11 @@
 title: Setup
 ---
 
-Run the following package installations to ensure you're ready to use robis
+Run the following package installations to ensure you're ready to use `robis`:
 
 ```{r}
 install.packages("remotes")  # update this if you have already installed it.
 remotes::install_github("iobis/robis")
-remotes::install_github("ropensci/finch")
 install.packages("readr")
 install.packages("httr")
 install.packages("dplyr")
@@ -24,7 +23,7 @@ install.packages('scrubr')
 ```
 
 
-Test install step by loading the packages
+We can test the success of the install step by loading the packages
 
 ```{r}
 library(dplyr)
