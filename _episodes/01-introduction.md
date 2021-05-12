@@ -221,7 +221,16 @@ include black and horny corals (Antipatharia) and soft corals (Alcyonacea) inclu
 > 2) Find how the occurrences are distributed among the different orders
 > > ## Solution:
 > > ~~~
-> > # solution here.
+> > library(robis)
+> > library(ggplot2)
+> >
+> > species <- c('Scleractinia', 'Antipatharia', 'Alcyonacea')
+> > coral <- occurrence(species, startdepth = 2000)
+> > world <- ggplot2::map_data("world")
+> > ggplot() +
+> >   geom_polygon(data = world, aes(x = long, y = lat, group = group), fill = "#dddddd") +
+> >   geom_point(data = coral, aes(x = decimalLongitude, y = decimalLatitude, color = order)) + coord_fixed(1)
+> > 
 > > ~~~
 > > {: .language-r}
 > {: .solution}
