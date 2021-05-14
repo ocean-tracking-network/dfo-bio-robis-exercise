@@ -24,7 +24,7 @@ Supplemental links and related materials:
 - [Darwin Core Quick Reference](https://dwc.tdwg.org/terms/) - a description of the data we're going to pull from OBIS and what its terms mean.
 
 ### The Ocean Biodiversity Information System
-* https://obis.org
+* Visit the [OBIS main site](https://obis.org).
 * UNESCO / IOC / IODE initiative to aggregate and disseminate marine biodiversity data 
 * HQ at VLIZ project office in Oostende, Belgium
 * Comprised of national and thematic 'nodes' that publish datasets from providers to be aggregated into the global data system
